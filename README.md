@@ -1,4 +1,4 @@
-# Library-Project<<<<<<< HEAD
+<<<<<<< HEAD
 # Library-Project
 =======
 # Library Management System
