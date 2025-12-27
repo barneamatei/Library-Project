@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Library-Project
-=======
+
 # Library Management System
 
 This Java-based desktop application follows a Layered Architecture and implements SOLID principles and OOP paradigms. Designed specifically for librarians, the system facilitates efficient management of books, users, and library staff. This ensures that employees can focus on their tasks while having the necessary tools for administrative operations.
@@ -27,4 +25,3 @@ This Java-based desktop application follows a Layered Architecture and implement
 
 This application simplifies library management by providing a robust and efficient system for handling resources and users.
 
->>>>>>> finalProject
